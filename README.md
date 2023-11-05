@@ -1,5 +1,7 @@
 # Soulclaim
-Asheron's Call Private Server - Soulclaim 
+Asheron's Call Private Server<BR><BR>
+**Hostname:** *soulclaim.ddns.net<BR>*
+**Port:** *9000<BR><BR>*
 
 ## All WIDs start at 6500001
 > [!Note]
