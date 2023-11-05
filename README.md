@@ -1,9 +1,9 @@
 # Soulclaim
 Asheron's Call Private Server - Soulclaim 
 
-# All WIDs start at 6500001
-
-Weenie ID - Weenie Name - File Type<BR><BR>
+## All WIDs start at 6500001
+> [!Note]
+> Weenie ID - Weenie Name - File Type<BR><BR>
 
 650001 Staff of God.sql                          *(Starting Wand)<BR><BR>*
 650002 Pack.sql                                  *(Starting Pack - 108 Slot Pack)<BR><BR>*
