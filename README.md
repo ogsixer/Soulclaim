@@ -1,10 +1,11 @@
 # Soulclaim
 Asheron's Call Private Server<BR><BR>
+1.5x XP/Luminance - 2x Quest XP/Luminance - Custom starting items and content.<BR><BR>
 **Hostname:** *soulclaim.ddns.net<BR>*
-**Port:** *9000<BR><BR>*
+**Port:** *9000*<BR><BR>
 
 ## All WIDs start at 6500001
-> [!Note]
+> [!IMPORTANT]
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
 650001 Staff of God.sql                          *(Starting Wand)<BR><BR>*
