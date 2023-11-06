@@ -4,6 +4,8 @@ Asheron's Call Private Server<BR><BR>
 **Hostname:** *soulclaim.ddns.net<BR>*
 **Port:** *9000*<BR><BR>
 
+## Modded Retail Weenies
+They can be found [here](Modded-Retail-Weenies/).
 ## All Custom Items WIDs start at 650001
 > [!IMPORTANT]
 > Weenie ID - Weenie Name - File Type<BR><BR>
