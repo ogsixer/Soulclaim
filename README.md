@@ -6,8 +6,9 @@ Asheron's Call Private Server<BR><BR>
 
 ## Modded Retail Weenies
 They can be found [here](Modded-Retail-Weenies/).
-## All Custom Items WIDs start at 650001
+## Custom Items
 > [!IMPORTANT]
+>  All custom WIDs MUST start at 650001<BR>
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
 [650001 Staff of God.sql](Weenies/650001%20Staff%20of%20God.sql)                                                    *(Starting Wand)*
