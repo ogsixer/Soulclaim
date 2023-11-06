@@ -4,7 +4,7 @@ Asheron's Call Private Server<BR><BR>
 **Hostname:** *soulclaim.ddns.net<BR>*
 **Port:** *9000*<BR><BR>
 
-## All WIDs start at 6500001
+## All WIDs start at 650001
 > [!IMPORTANT]
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
