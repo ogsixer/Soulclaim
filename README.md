@@ -25,10 +25,10 @@ They can be found [here](Modded-Retail-Weenies/).
 - [ ] Complete. Needs to be uploaded to server.
 - [X] Uploaded to server.<BR><BR>
 
-[650003 Farnum the Provisioner.sql](Weenies/650003%20Farnum%20the%20Provisioner.sql)                                *(CAN BE REPLACED/MODIFIED)*
-- [X] Needs modding
+[650003 Buffstone.sql](Weenies/650003%20Buff%20Stone.sql)                                *(Casts level 6 spells on the user)*
+- [ ] Needs modding
 - [ ] Complete. Needs to be uploaded to server.
-- [ ] Uploaded to server.<BR><BR>
+- [X] Uploaded to server.<BR><BR>
 
 [650004 Colosseum Coin Collector.sql](Weenies/650004%20Colosseum%20Coin%20Collector.sql)                            *(MMD Vendor in Town Network)*
 - [ ] Needs modding
