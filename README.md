@@ -36,7 +36,7 @@ They can be found [here](Modded-Retail-Weenies/).
 - [ ] Complete. Needs to be uploaded to server.
 - [X] Uploaded to server.<BR><BR>
 
-[650005 Master Yado.sql](Weenies/650005%20Master%20Yado.sql)                                                        *(Not yet modified)*
+[650005 Ex-Professor Darby.sql](Weenies/650005%20Ex-Professor%20Darby.sql)                                                        *(Modified from Master Yado)*
 - [X] Needs modding
 - [ ] Complete. Needs to be uploaded to server.
 - [ ] Uploaded to server.<BR><BR>
