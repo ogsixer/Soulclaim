@@ -60,3 +60,13 @@ They can be found [here](Modded-Retail-Weenies/).
 - [ ] Needs modding
 - [ ] Complete. Needs to be uploaded to server.
 - [X] Uploaded to server.<BR><BR>
+
+[650010 Server Crier.sql](Weenies/650010%20Server%20Crier.sql)                                                                        *(Used to give players an account of server changes)*
+- [X] Needs modding
+- [ ] Complete. Needs to be uploaded to server.
+- [ ] Uploaded to server.<BR><BR>
+
+[650011 Server Change Log.sql](Weenies/650011%20Server%20Change%20Log.sql)                                                                        *(Hotel Swank locked door behind portal drop)*
+- [X] Needs modding
+- [ ] Complete. Needs to be uploaded to server.
+- [ ] Uploaded to server.<BR><BR>
