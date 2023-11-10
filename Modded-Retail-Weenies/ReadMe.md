@@ -12,7 +12,7 @@ Most of these weenies are to increase stack sizes but is not just limited to tha
 - [ ] Complete. Needs to be uploaded to server.
 - [X] Uploaded to server.<BR><BR>
 
-[20630 Trade Note (250,000).sql](Modded-Retail-Weenies/20630%20Trade%20Note%20(250,000).sql)                                                                        *(Starting Pack - 108 Slot Pack)*
+[20630 Trade Note (250,000).sql](Modded-Retail-Weenies/20630%20Trade%20Note%20(250,000).sql)                                                                        *(Increased stack size to 4,000)*
 - [ ] Needs modding
 - [ ] Complete. Needs to be uploaded to server.
 - [X] Uploaded to server.<BR><BR>
