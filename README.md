@@ -10,6 +10,12 @@ Asheron's Call Private Server<BR><BR>
 **Port:** *9000*<BR>
 **Region:** *US West*<BR><BR>
 
+**Server Hardware:**<BR>
+- **CPU:** *Ryzen 9 3900X 12-Core 3.80 GHz*
+- **Motherboard:** *ASUS TUF X570-PLUS (Wi-Fi)*
+- **RAM:** *128 GB*
+- **O/S:** *Windows*
+
 ## Modded Retail Weenies
 They can be found [here](Modded-Retail-Weenies/).
 ## Custom Items
