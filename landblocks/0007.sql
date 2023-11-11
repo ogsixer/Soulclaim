@@ -713,9 +713,13 @@ VALUES (0x700070B2, 650007, 0x0007014F, 70.0239, -176.514, -0.063, 0.999985, 0, 
 /* @teleloc 0x0007014F [70.023903 -176.514008 -0.063000] 0.999985 0.000000 0.000000 -0.005457 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x700070B3, 30063, 0x00070144, 69.9651, -72.1152, 0.396006, -0.006129, 0, 0, -0.999981, False, '2023-10-31 00:30:03'); /* Town Crier */
+VALUES (0x700070B3, 650010, 0x00070144, 69.9651, -72.1152, 0.396006, -0.006129, 0, 0, -0.999981, False, '2023-10-31 00:30:03'); /* Server Crier */
 /* @teleloc 0x00070144 [69.965103 -72.115196 0.396006] -0.006129 0.000000 0.000000 -0.999981 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x700070B4, 650003, 0x00070155, 79.6144, -61.17634, 0, -0.400901, 0, 0, -0.916121, False, '2023-11-06 16:13:12'); /* Farnum the Provisioner */
-/* @teleloc 0x00070155 [79.614403 -61.176338 0.000000] -0.400901 0.000000 0.000000 -0.916121 */
+VALUES (0x700070B4, 650003, 0x00070155, 79.6144, -61.1763, 0, -0.400901, 0, 0, -0.916121, False, '2023-11-06 16:13:12'); /* Buff Stone */
+/* @teleloc 0x00070155 [79.614403 -61.176300 0.000000] -0.400901 0.000000 0.000000 -0.916121 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x700070B5, 650012, 0x00070132, 60.34642, -60.36069, 0, 0.382683, 0, 0, -0.92388, False, '2023-11-11 00:13:35');
+/* @teleloc 0x00070132 [60.346420 -60.360691 0.000000] 0.382683 0.000000 0.000000 -0.923880 */
