@@ -7,7 +7,8 @@ Asheron's Call Private Server<BR><BR>
 **Quest Timers:** *Reduced by 75%*<BR><BR>
 **Discord:** *https://discord.gg/939ARjY*<BR><BR>
 **Hostname:** *soulclaim.ddns.net<BR>*
-**Port:** *9000*<BR><BR>
+**Port:** *9000*<BR>
+**Region:** *US West*<BR><BR>
 
 ## Modded Retail Weenies
 They can be found [here](Modded-Retail-Weenies/).
