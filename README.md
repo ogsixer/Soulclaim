@@ -66,7 +66,12 @@ They can be found [here](Modded-Retail-Weenies/).
 - [ ] Complete. Needs to be uploaded to server.
 - [ ] Uploaded to server.<BR><BR>
 
-[650011 Server Change Log.sql](Weenies/650011%20Server%20Change%20Log.sql)                                                                        *(Hotel Swank locked door behind portal drop)*
+[650011 Server Change Log.sql](Weenies/650011%20Server%20Change%20Log.sql)                                                                        *(Log of server changes)*
 - [X] Needs modding
 - [ ] Complete. Needs to be uploaded to server.
 - [ ] Uploaded to server.<BR><BR>
+
+[650012 Greater Buff Stone.sql](Weenies/650012%20Greater%20Buff%20Stone.sql)                                                                        *(Casts level 7 spells on the user for a C Note)*
+- [ ] Needs modding
+- [ ] Complete. Needs to be uploaded to server.
+- [X] Uploaded to server.<BR><BR>
