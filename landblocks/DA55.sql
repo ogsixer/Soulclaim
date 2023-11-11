@@ -467,5 +467,9 @@ VALUES (0x7DA550A0, 42722, 0xDA550192, 83.5494, 61.5904, 20.045, 0.647785, 0, 0,
 /* @teleloc 0xDA550192 [83.549400 61.590401 20.045000] 0.647785 0.000000 0.000000 -0.761823 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7DA550A1, 650003, 0xDA55001E, 83.82912, 127.9377, 20, 0.02371, 0, 0, -0.999719, False, '2023-11-07 02:20:40'); /* Buff Stone */
-/* @teleloc 0xDA55001E [83.829117 127.937698 20.000000] 0.023710 0.000000 0.000000 -0.999719 */
+VALUES (0x7DA550A1, 650003, 0xDA55001E, 83.8291, 127.938, 20, 0.02371, 0, 0, -0.999719, False, '2023-11-07 02:20:40'); /* Buff Stone */
+/* @teleloc 0xDA55001E [83.829102 127.938004 20.000000] 0.023710 0.000000 0.000000 -0.999719 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DA550A2, 650010, 0xDA55001D, 82.33652, 108.0483, 20.005, -0.014299, 0, 0, -0.999898, False, '2023-11-10 11:11:45'); /* Server Crier */
+/* @teleloc 0xDA55001D [82.336517 108.048302 20.004999] -0.014299 0.000000 0.000000 -0.999898 */
