@@ -7,12 +7,8 @@ Most of these weenies are to increase stack sizes but is not just limited to tha
 > [!IMPORTANT]
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
-[00273 Pyreal.sql](Modded-Retail-Weenies/00273%20Pyreal.sql)                                                    *(Increased stack size to 32,000)*
-- [ ] Needs modding
-- [ ] Complete. Needs to be uploaded to server.
-- [X] Uploaded to server.<BR><BR>
+[00273 Pyreal.sql](Modded-Retail-Weenies/00273%20Pyreal.sql) *(Increased stack size to 32,000)*
 
-[20630 Trade Note (250,000).sql](Modded-Retail-Weenies/20630%20Trade%20Note%20(250,000).sql)                                                                        *(Increased stack size to 4,000)*
-- [ ] Needs modding
-- [ ] Complete. Needs to be uploaded to server.
-- [X] Uploaded to server.<BR><BR>
+[20630 Trade Note (250,000).sql](Modded-Retail-Weenies/20630%20Trade%20Note%20(250,000).sql) *(Increased stack size to 4,000)*
+
+[33596 Pathwarden Thorolf](Modded-Retail-Weenies/33596%20Pathwarden%20Thorolf.sql) *(Now accepts custom starting armor)*
