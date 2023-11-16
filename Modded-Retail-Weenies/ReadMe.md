@@ -1,9 +1,6 @@
 # Modded Retail Weenies
 Most of these weenies are to increase stack sizes but is not just limited to that.<BR><BR>
 
-**Hostname:** *soulclaim.ddns.net<BR>*
-**Port:** *9000*<BR><BR>
-
 > [!IMPORTANT]
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
