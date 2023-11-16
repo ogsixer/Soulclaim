@@ -18,9 +18,11 @@ Asheron's Call Private Server<BR><BR>
 
 ## Modded Retail Weenies
 They can be found [here](Modded-Retail-Weenies/).
+
 ## Custom Weenies
 > [!IMPORTANT]
->  All custom WIDs MUST start at 650001<BR>
+> Custom WCIDs: 650001-???<BR>
+> Custom MOB WCIDs: 620001-629999
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
 They can be found [here](https://github.com/ogsixer/Soulclaim/tree/master/Weenies).
