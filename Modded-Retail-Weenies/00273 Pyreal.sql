@@ -7,7 +7,7 @@ INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (273,   1,         64) /* ItemType - Money */
      , (273,   5,          0) /* EncumbranceVal */
      , (273,   8,          0) /* Mass */
-     , (273,  11,      32000) /* MaxStackSize */
+     , (273,  11,      50000) /* MaxStackSize */
      , (273,  12,          1) /* StackSize */
      , (273,  13,          0) /* StackUnitEncumbrance */
      , (273,  14,          0) /* StackUnitMass */
