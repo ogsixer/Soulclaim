@@ -22,7 +22,7 @@ They can be found [here](Modded-Retail-Weenies/).
 ## Custom Weenies
 > [!IMPORTANT]
 > Custom WCIDs: 650001-???<BR>
-> Custom MOB WCIDs: 620001-629999<BR>
+> Custom MOB WCIDs: 620000-629999<BR>
 > Weenie ID - Weenie Name - File Type<BR><BR>
 
 They can be found [here](https://github.com/ogsixer/Soulclaim/tree/master/Weenies).
