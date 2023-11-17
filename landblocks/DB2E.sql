@@ -630,5 +630,17 @@ VALUES (0x7DB2E07F, 10762, 0xDB2E0152, 50, -50, -5.995, -0.68921, 0, 0, -0.72456
 /* @teleloc 0xDB2E0152 [50.000000 -50.000000 -5.995000] -0.689210 0.000000 0.000000 -0.724561 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7DB2E080, 650007, 0xDB2E0020, 72.61554, 168.2043, 277.9029, -0.341337, 0, 0, 0.939941, False, '2023-10-31 00:57:26'); /* Portal to Hotel Swank */
-/* @teleloc 0xDB2E0020 [72.615540 168.204300 277.902893] -0.341337 0.000000 0.000000 0.939941 */
+VALUES (0x7DB2E080, 650007, 0xDB2E0020, 72.6155, 168.204, 277.903, -0.341337, 0, 0, 0.939941, False, '2023-10-31 00:57:26'); /* Portal to Hotel Swank */
+/* @teleloc 0xDB2E0020 [72.615501 168.203995 277.903015] -0.341337 0.000000 0.000000 0.939941 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DB2E081, 650012, 0xDB2E0027, 102.904, 144.381, 278, -0.999656, 0, 0, 0.026235, False, '2023-11-11 10:36:20');
+/* @teleloc 0xDB2E0027 [102.903999 144.380997 278.000000] -0.999656 0.000000 0.000000 0.026235 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DB2E082, 650003, 0xDB2E0027, 98.0251, 144.877, 278, 1, 0, 0, 0, False, '2023-11-11 10:37:57'); /* Buff Stone */
+/* @teleloc 0xDB2E0027 [98.025101 144.876999 278.000000] 1.000000 0.000000 0.000000 0.000000 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DB2E083, 650010, 0xDB2E001F, 73.36266, 151.1853, 278.005, 0.707107, 0, 0, -0.707107, False, '2023-11-11 10:40:47'); /* Server Crier */
+/* @teleloc 0xDB2E001F [73.362663 151.185303 278.005005] 0.707107 0.000000 0.000000 -0.707107 */

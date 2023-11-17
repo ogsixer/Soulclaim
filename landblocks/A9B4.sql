@@ -357,7 +357,7 @@ VALUES (0x7A9B406E, 28856, 0xA9B40029, 128.52, 4.95478, 94.005, 0.320192, 0, 0, 
 /* @teleloc 0xA9B40029 [128.520004 4.954780 94.004997] 0.320192 0.000000 0.000000 -0.947353 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7A9B4072, 33609, 0xA9B40022, 99, 29.5, 94, 1, 0, 0, 0, False, '2022-12-04 19:04:52'); /* Aluvian Pathwarden Chest */
+VALUES (0x7A9B4072, 650013, 0xA9B40022, 99, 29.5, 94, 1, 0, 0, 0, False, '2022-12-04 19:04:52'); /* Aluvian Pathwarden Chest */
 /* @teleloc 0xA9B40022 [99.000000 29.500000 94.000000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)

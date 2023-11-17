@@ -387,7 +387,7 @@ VALUES (0x7DA55086, 0x7DA55088, '2022-12-04 19:04:52') /* Eiichi (44897) */
      , (0x7DA55086, 0x7DA5508A, '2022-12-04 19:04:52') /* Pathwarden Koro Ijida (33614) */;
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7DA55087, 33611, 0xDA55001D, 81, 104, 20, 1, 0, 0, 0, False, '2022-12-04 19:04:52'); /* Sho Pathwarden Chest */
+VALUES (0x7DA55087, 650033, 0xDA55001D, 81, 104, 20, 1, 0, 0, 0, False, '2022-12-04 19:04:52'); /* Sho Pathwarden Chest */
 /* @teleloc 0xDA55001D [81.000000 104.000000 20.000000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)

@@ -301,7 +301,7 @@ VALUES (0x7C6A9050, 53385, 0xC6A9000B, 27.4399, 66.9579, 42.005, 0.894455, 0, 0,
 /* @teleloc 0xC6A9000B [27.439899 66.957901 42.005001] 0.894455 0.000000 0.000000 -0.447159 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7C6A9051, 53381, 0xC6A9000B, 28.8551, 65.4934, 42.005, 0.934628, 0, 0, -0.355628, False, '2021-11-01 00:00:00'); /* Professor of War Magic */
+VALUES (0x7C6A9051, 650027, 0xC6A9000B, 28.8551, 65.4934, 42.005, 0.934628, 0, 0, -0.355628, False, '2021-11-01 00:00:00'); /* Corpse of Professor of War Magic */
 /* @teleloc 0xC6A9000B [28.855101 65.493401 42.005001] 0.934628 0.000000 0.000000 -0.355628 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -309,15 +309,15 @@ VALUES (0x7C6A9052, 49516, 0xC6A90019, 79.7583, 22.9318, 43.0405, -0.707107, 0, 
 /* @teleloc 0xC6A90019 [79.758301 22.931801 43.040501] -0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7C6A9053, 53384, 0xC6A9000B, 30.4858, 64.5441, 42.005, 0.962618, 0, 0, -0.270862, False, '2021-11-01 00:00:00'); /* Professor of Life Magic */
+VALUES (0x7C6A9053, 650026, 0xC6A9000B, 30.4858, 64.5441, 42.005, 0.962618, 0, 0, -0.270862, False, '2021-11-01 00:00:00'); /* Corpse of Professor of Life Magic */
 /* @teleloc 0xC6A9000B [30.485800 64.544098 42.005001] 0.962618 0.000000 0.000000 -0.270862 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7C6A9054, 53383, 0xC6A9000B, 32.3748, 64.4928, 42.005, 0.990704, 0, 0, -0.136037, False, '2021-11-01 00:00:00'); /* Professor of Item Magic */
+VALUES (0x7C6A9054, 650019, 0xC6A9000B, 32.3748, 64.4928, 42.005, 0.990704, 0, 0, -0.136037, False, '2021-11-01 00:00:00'); /* Corpse of Professor of Item Magic */
 /* @teleloc 0xC6A9000B [32.374802 64.492798 42.005001] 0.990704 0.000000 0.000000 -0.136037 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7C6A9055, 53382, 0xC6A9000B, 34.8176, 64.5191, 42.005, 0.953395, 0, 0, -0.301724, False, '2021-11-01 00:00:00'); /* Professor of Creature Magic */
+VALUES (0x7C6A9055, 650025, 0xC6A9000B, 34.8176, 64.5191, 42.005, 0.953395, 0, 0, -0.301724, False, '2021-11-01 00:00:00'); /* Corpse of Professor of Creature Magic */
 /* @teleloc 0xC6A9000B [34.817600 64.519096 42.005001] 0.953395 0.000000 0.000000 -0.301724 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -470,3 +470,11 @@ VALUES (0x7C6A96A5, 0x7C6A96A6, '2021-11-01 00:00:00') /* Exploration Marker (39
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
 VALUES (0x7C6A96A6, 39788, 0xC6A90008, 23.5546, 168.419, 22, -0.363977, 0, 0, 0.931408,  True, '2021-11-01 00:00:00'); /* Exploration Marker */
 /* @teleloc 0xC6A90008 [23.554600 168.419006 22.000000] -0.363977 0.000000 0.000000 0.931408 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7C6A96A8, 650005, 0xC6A9000B, 32.1253, 65.9881, 42.005, 0.998946, 0, 0, -0.045907, False, '2023-11-14 22:52:01'); /* Ex-Professor Dawn-Marie */
+/* @teleloc 0xC6A9000B [32.125301 65.988098 42.005001] 0.998946 0.000000 0.000000 -0.045907 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7C6A96A9, 650010, 0xC6A9001B, 89.13228, 65.2121, 42.005, 0.91078, 0, 0, 0.412892, False, '2023-11-16 13:24:07'); /* Server Crier */
+/* @teleloc 0xC6A9001B [89.132278 65.212097 42.005001] 0.910780 0.000000 0.000000 0.412892 */
