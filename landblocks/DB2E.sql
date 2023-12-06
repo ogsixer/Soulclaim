@@ -634,7 +634,7 @@ VALUES (0x7DB2E080, 650007, 0xDB2E0020, 72.6155, 168.204, 277.903, -0.341337, 0,
 /* @teleloc 0xDB2E0020 [72.615501 168.203995 277.903015] -0.341337 0.000000 0.000000 0.939941 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7DB2E081, 650012, 0xDB2E0027, 102.904, 144.381, 278, -0.999656, 0, 0, 0.026235, False, '2023-11-11 10:36:20');
+VALUES (0x7DB2E081, 650012, 0xDB2E0027, 102.904, 144.381, 278, -0.999656, 0, 0, 0.026235, False, '2023-11-11 10:36:20'); /* Greater Buff Stone */
 /* @teleloc 0xDB2E0027 [102.903999 144.380997 278.000000] -0.999656 0.000000 0.000000 0.026235 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -642,5 +642,13 @@ VALUES (0x7DB2E082, 650003, 0xDB2E0027, 98.0251, 144.877, 278, 1, 0, 0, 0, False
 /* @teleloc 0xDB2E0027 [98.025101 144.876999 278.000000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7DB2E083, 650010, 0xDB2E001F, 73.36266, 151.1853, 278.005, 0.707107, 0, 0, -0.707107, False, '2023-11-11 10:40:47'); /* Server Crier */
-/* @teleloc 0xDB2E001F [73.362663 151.185303 278.005005] 0.707107 0.000000 0.000000 -0.707107 */
+VALUES (0x7DB2E083, 650010, 0xDB2E001F, 73.3627, 151.185, 278.005, 0.707107, 0, 0, -0.707107, False, '2023-11-11 10:40:47'); /* Server Crier */
+/* @teleloc 0xDB2E001F [73.362701 151.184998 278.005005] 0.707107 0.000000 0.000000 -0.707107 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DB2E084, 28716, 0xDB2E0135, 116.017, 97.8943, 258.809, -0.979629, 0, 0, -0.200817, False, '2023-11-16 21:27:32'); /* Sir Bellas */
+/* @teleloc 0xDB2E0135 [116.016998 97.894302 258.808990] -0.979629 0.000000 0.000000 -0.200817 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7DB2E085, 620002, 0xDB2E0038, 147.18, 189.113, 288, 0.449722, 0, 0, 0.893169, False, '2023-11-23 10:58:54');
+/* @teleloc 0xDB2E0038 [147.179993 189.113007 288.000000] 0.449722 0.000000 0.000000 0.893169 */

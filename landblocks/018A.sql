@@ -1,7 +1,7 @@
 DELETE FROM `landblock_instance` WHERE `landblock` = 0x018A;
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A059, 42825, 0x018A0100, 93.4792, -29.7542, -11.995, 0.714421, 0, 0, -0.699716, False, '2022-02-10 05:08:07'); /* Portal to Bluespire */
+VALUES (0x7018A059, 30058, 0x018A0100, 93.4792, -29.7542, -11.995, 0.714421, 0, 0, -0.699716, False, '2022-02-10 05:08:07'); /* Augmentation Realm Main Level */
 /* @teleloc 0x018A0100 [93.479202 -29.754200 -11.995000] 0.714421 0.000000 0.000000 -0.699716 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -189,7 +189,7 @@ VALUES (0x7018A0D8,  5624, 0x018A0264, 134.761, -80, 0.005, 0.707107, 0, 0, -0.7
 /* @teleloc 0x018A0264 [134.761002 -80.000000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A0EB, 4925, 0x018A026C, 136.193, -20.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Phyntos Menace */
+VALUES (0x7018A0EB,  4925, 0x018A026C, 136.193, -20.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Phyntos Menace */
 /* @teleloc 0x018A026C [136.192993 -20.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -225,5 +225,9 @@ VALUES (0x7018A12F, 30964, 0x018A0255, 110.004, -13.2545, -0.063, -0.004286, 0, 
 /* @teleloc 0x018A0255 [110.003998 -13.254500 -0.063000] -0.004286 0.000000 0.000000 -0.999991 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A130, 28808, 0x018A026C, 120.0214, -13.0237, -0.063, 0.003885, 0, 0, -0.999992, False, '2023-11-18 17:47:05'); /* Insatiable Vault */
-/* @teleloc 0x018A026C [120.021400 -13.023700 -0.063000] 0.003885 0.000000 0.000000 -0.999992 */
+VALUES (0x7018A130, 28808, 0x018A026C, 120.021, -13.0237, -0.063, 0.003885, 0, 0, -0.999992, False, '2023-11-18 17:47:05'); /* Insatiable Vault */
+/* @teleloc 0x018A026C [120.021004 -13.023700 -0.063000] 0.003885 0.000000 0.000000 -0.999992 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x7018A131, 650040, 0x018A0272, 120.0106, -66.30738, -0.063, 0.99995, 0, 0, -0.009997, False, '2023-11-20 00:38:51'); /* Portal to +God's Mansion */
+/* @teleloc 0x018A0272 [120.010597 -66.307381 -0.063000] 0.999950 0.000000 0.000000 -0.009997 */
