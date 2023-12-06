@@ -2,8 +2,9 @@
 Asheron's Call Private Server<BR><BR>
 1.5x XP/Luminance - 2x Quest XP/Luminance - Custom starting items and content.<BR><BR>
 **Max Level:** *275*<BR>
-**Max Accounts:** *Unlimited (So far)*<BR>
-**Max Connections from a single IP address:** *Unlimted (So far)*<BR>
+**Max Accounts:** *Unlimited*<BR>
+**Max Connections from a single IP address:** *Unlimted*<BR>
+**Total Max Connections:** *500* - *Will be increased if we ever hit the cap*<BR>
 **Quest Timers:** *Reduced by 75%*<BR><BR>
 **Discord:** *https://discord.gg/939ARjY*<BR><BR>
 **Hostname:** *soulclaim.ddns.net<BR>*
