@@ -1,12 +1,12 @@
 DELETE FROM `weenie` WHERE `class_Id` = 650002;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (650002, '650002backpackrare', 21, '2023-10-26 07:11:28') /* Container */;
+VALUES (650002, '650002backpackrare', 21, '2023-12-01 12:19:12') /* Container */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (650002,   1,        512) /* ItemType - Container */
      , (650002,   5,         15) /* EncumbranceVal */
-     , (650002,   6,        108) /* ItemsCapacity */
+     , (650002,   6,        102) /* ItemsCapacity */
      , (650002,   8,         15) /* Mass */
      , (650002,  16,         56) /* ItemUseable - ContainedViewedRemote */
      , (650002,  18,          1) /* UiEffects - Magical */
