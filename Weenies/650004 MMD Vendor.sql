@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 650004;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (650004, 'ace650004-colosseumcoincollector', 12, '2023-11-18 07:31:56') /* Vendor */;
+VALUES (650004, 'ace650004-colosseumcoincollector', 12, '2023-12-07 01:32:43') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (650004,   1,         16) /* ItemType - Creature */
@@ -33,8 +33,8 @@ VALUES (650004,  37,       0) /* BuyPrice */
      , (650004,  54,       3) /* UseRadius */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (650004,   1, 'MMD Vendor') /* Name */
-     , (650004,   5, 'Vendor') /* Template */;
+VALUES (650004,   1, 'Master of Vendors') /* Name */
+     , (650004,   5, 'MMD Vendor') /* Template */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (650004,   1, 0x02000F5F) /* Setup */
