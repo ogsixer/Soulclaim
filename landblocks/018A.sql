@@ -5,7 +5,7 @@ VALUES (0x7018A059, 30058, 0x018A0100, 93.4792, -29.7542, -11.995, 0.714421, 0, 
 /* @teleloc 0x018A0100 [93.479202 -29.754200 -11.995000] 0.714421 0.000000 0.000000 -0.699716 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A05A, 42836, 0x018A0101, 93.154, -39.7525, -11.995, 0.682746, 0, 0, -0.730656, False, '2022-02-10 05:08:07'); /* Portal to Redspire */
+VALUES (0x7018A05A, 22648, 0x018A0101, 93.154, -39.7525, -11.995, 0.682746, 0, 0, -0.730656, False, '2022-02-10 05:08:07'); /* Tusker Lacuna */
 /* @teleloc 0x018A0101 [93.153999 -39.752499 -11.995000] 0.682746 0.000000 0.000000 -0.730656 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -129,19 +129,19 @@ VALUES (0x7018A09B,  9684, 0x018A0205, 83.09, -20.007, 0.005, 0.707107, 0, 0, -0
 /* @teleloc 0x018A0205 [83.089996 -20.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A09C, 42818, 0x018A0206, 83.09, -30.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Portal to Cragstone */
+VALUES (0x7018A09C, 24185, 0x018A0206, 83.09, -30.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Heart of Innocence */
 /* @teleloc 0x018A0206 [83.089996 -30.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A09D, 42845, 0x018A0207, 83.09, -40.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Baishi Portal */
+VALUES (0x7018A09D, 10796, 0x018A0207, 83.09, -40.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Singularity Bore */
 /* @teleloc 0x018A0207 [83.089996 -40.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A09E,  7194, 0x018A0208, 83.09, -50.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Ayan Baqur Portal */
+VALUES (0x7018A09E,  10849, 0x018A0208, 83.09, -50.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Lair of the Eviscerators */
 /* @teleloc 0x018A0208 [83.089996 -50.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A09F, 42819, 0x018A0209, 83.09, -60.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Portal to Arwic */
+VALUES (0x7018A09F, 31315, 0x018A0209, 83.09, -60.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Portal to Arwic */
 /* @teleloc 0x018A0209 [83.089996 -60.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -157,7 +157,7 @@ VALUES (0x7018A0A2, 10794, 0x018A0215, 94.6209, -55.4297, 0.005, 0.930508, 0, 0,
 /* @teleloc 0x018A0215 [94.620903 -55.429699 0.005000] 0.930508 0.000000 0.000000 -0.366273 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A0A3, 42830, 0x018A0216, 89.9928, -66.9105, 0.005, 1, 0, 0, 0, False, '2022-02-10 05:08:07'); /* Al-Jalima Portal */
+VALUES (0x7018A0A3, 28786, 0x018A0216, 89.9928, -66.9105, 0.005, 1, 0, 0, 0, False, '2022-02-10 05:08:07'); /* Hidden City */
 /* @teleloc 0x018A0216 [89.992798 -66.910500 0.005000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -165,7 +165,7 @@ VALUES (0x7018A0B3,  4040, 0x018A021E, 99.9928, -13.8072, 0.005, 1, 0, 0, 0, Fal
 /* @teleloc 0x018A021E [99.992798 -13.807200 0.005000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A0B4, 42823, 0x018A0224, 99.9365, -66.9763, 0.005, 1, 0, 0, 0, False, '2022-02-10 05:08:07'); /* Portal to Al-Arqas */
+VALUES (0x7018A0B4, 28778, 0x018A0224, 99.9365, -66.9763, 0.005, 1, 0, 0, 0, False, '2022-02-10 05:08:07'); /* Frozen Library */
 /* @teleloc 0x018A0224 [99.936501 -66.976303 0.005000] 1.000000 0.000000 0.000000 0.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
@@ -205,7 +205,7 @@ VALUES (0x7018A0EE, 42850, 0x018A026F, 136.193, -50.007, 0.005, 0.707107, 0, 0, 
 /* @teleloc 0x018A026F [136.192993 -50.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x7018A0EF, 42844, 0x018A0270, 136.193, -60.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Lin Portal */
+VALUES (0x7018A0EF, 7246, 0x018A0270, 136.193, -60.007, 0.005, 0.707107, 0, 0, -0.707107, False, '2022-02-10 05:08:07'); /* Black Spawn Den */
 /* @teleloc 0x018A0270 [136.192993 -60.007000 0.005000] 0.707107 0.000000 0.000000 -0.707107 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
