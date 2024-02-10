@@ -12,8 +12,7 @@ Asheron's Call Private Server<BR><BR>
 **Region:** *US West*<BR><BR>
 
 **Server Hardware:**<BR>
-- **CPU:** *Ryzen 9 3900X 12-Core 3.80 GHz*
-- **Motherboard:** *ASUS TUF X570-PLUS (Wi-Fi)*
+- **CPU:** *2x Intel Xeon E5-2690 v4 2.60 GHz*
 - **RAM:** *128 GB*
 - **O/S:** *Windows*
 
